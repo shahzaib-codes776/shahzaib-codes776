@@ -48,7 +48,7 @@ I'm a Frontend Developer and Co-Founder of **[DelVoxe](https://github.com/shahza
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-codes776&show_icons=true&theme=default&hide_border=true" height="165" />
+ [ <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-codes776&show_icons=true&theme=default&hide_border=true" height="165" />](https://github-readme-stats-nayan-git.vercel.app/api?username=shahzaib-codes776&show_icons=true&theme=default&hide_border=true)
   <img src="https://streak-stats.demolab.com?user=shahzaib-codes776&hide_border=true" height="165" />
 </p>
 
