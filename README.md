@@ -57,7 +57,6 @@ I'm a Frontend Developer and Co-Founder of **[DelVoxe](https://github.com/shahza
 <p align="center"><em>"Code. Build. Improve."</em></p> -->
 
                                          
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF8C00&height=200&section=header&text=Shahzaib%20Shoukat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Co-Founder%20%40%20DelVoxe&descAlignY=55&descSize=18" width="100%"/>
@@ -128,24 +127,11 @@ IT & software services provider company site — built to showcase service offer
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shahzaib-codes776&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://streak-stats.demolab.com?user=shahzaib-codes776&theme=radical&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-codes776&layout=compact&theme=radical&hide_border=true" height="165" />
-
-</div>
-
-<br/>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shahzaib-codes776&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://streak-stats.demolab.com?user=shahzaib-codes776&theme=radical&hide_border=true" height="180" />
 
 </div>
 
@@ -158,11 +144,3 @@ IT & software services provider company site — built to showcase service offer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:8A2BE2&height=100&section=footer" width="100%"/>
 
 </div>
-                                          
-
-
-
-
-
-
-
