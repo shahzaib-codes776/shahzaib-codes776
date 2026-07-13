@@ -77,19 +77,19 @@ I'm a Frontend Developer and Co-Founder of **[DelVoxe](https://github.com/shahza
 
 ### 🧭 About Me
 
-\`\`\`
+```
 const shahzaib = {
   role: "Frontend Developer & Co-Founder @ DelVoxe",
-  focus: "Building real client projects, sharpening full-stack skills",
-  stack: ["HTML", "CSS", "JavaScript", "C++", "Java", "C#"],
-  currentlyLearning: "Backend Development",
+  focus: "Building ChatCore, an AI chat widget product for businesses",
+  stack: ["JavaScript", "React", "Node.js", "Express", "PostgreSQL"],
+  currentlyLearning: "Full-stack architecture & AI integration",
   motto: "Code. Build. Improve."
 };
-\`\`\`
+```
 
-- 🚀 Co-founded **[DelVoxe](https://github.com/shahzaib-codes776/delvoxe)** — a software house delivering web development & digital services
-- 🛠️ Frontend developer building real, client-facing products — not just tutorials
-- 🌱 Currently deepening backend skills to move toward full-stack
+- 🚀 Building **[ChatCore](https://github.com/shahzaib-codes776/Chatcore)** — an AI-powered chat widget for businesses, under DelVoxe
+- 🛠️ Co-founded **[DelVoxe](https://github.com/shahzaib-codes776/delvoxe)** — a software house delivering web development & digital services
+- 🌱 Full-stack development: authentication, databases, secure APIs, AI integration
 - 💬 Open to freelance work and collaboration on frontend projects
 
 <br/>
@@ -98,7 +98,7 @@ const shahzaib = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,cs,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,cpp,java,cs,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -110,16 +110,16 @@ const shahzaib = {
 <tr>
 <td width="50%">
 
-**[DelVoxe — Agency Website](https://github.com/shahzaib-codes776/delvoxe)**
-Official site for DelVoxe, a software house offering web dev & digital services. Built end-to-end: service pages, portfolio case studies, working contact system.
-\`HTML\` \`CSS\` \`JavaScript\`
+**[ChatCore](https://github.com/shahzaib-codes776/Chatcore)**
+An AI-powered chat widget businesses embed on their website. Visitors get instant answers grounded in the business's own data, every conversation is captured as a lead, and owners manage it all from a dashboard.
+`Node.js` `Express` `PostgreSQL` `React` `JWT Auth` `Gemini AI`
 
 </td>
 <td width="50%">
 
-**[Service Provider Platform](https://github.com/shahzaib-codes776/service-provider)**
-IT & software services provider company site — built to showcase service offerings and drive client inquiries.
-\`HTML\` \`CSS\`
+**[DelVoxe — Agency Website](https://github.com/shahzaib-codes776/delvoxe)**
+Official site for DelVoxe, a software house offering web dev & digital services. Built end-to-end: service pages, portfolio case studies, working contact system.
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
