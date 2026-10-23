@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi, I'm Shahzaib Shoukat 👋</h1>
-<h3 align="center">Frontend Developer | Co-Founder @ DelVoxe | Software Engineering Student</h3>
+<h3 align="center">Frontend Developer | Co-Founder @ elVoxe | Software Engineering Student</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shahzaib-shoukat-68765439a/">
@@ -41,7 +41,7 @@ I'm a Frontend Developer and Co-Founder of **[CelVoxe](https://celvoxe.com)** �
 
 ### 📌 Featured Project
 
-**[CelVoxe](https://github.com/shahzaib-codes776/delvoxe)** — Official website of CelVoxe, a software house offering web development and digital services. Built and maintained end-to-end, including service pages, portfolio case studies, and a working contact system.
+**[CelVoxe](https://celvoxe.com)** — Official website of CelVoxe, a software house offering web development and digital services. Built and maintained end-to-end, including service pages, portfolio case studies, and a working contact system.
 
 ---
 
