@@ -14,9 +14,9 @@
 
 ### 🚀 About Me
 
-I'm a Frontend Developer and Co-Founder of **[DelVoxe](https://github.com/shahzaib-codes776/delvoxe)** — a software house building web development and digital solutions for clients. I focus on clean, functional, and modern frontend experiences, and I'm currently expanding into full-stack development.
+I'm a Frontend Developer and Co-Founder of **[CelVoxe](https://celvoxe.com)** — a software house building web development and digital solutions for clients. I focus on clean, functional, and modern frontend experiences, and I'm currently expanding into full-stack development.
 
-- 🔭 Currently building and scaling **DelVoxe**, working with real clients on web projects
+- 🔭 Currently building and scaling **CelVoxe**, working with real clients on web projects
 - 🌱 Learning backend development to become a stronger full-stack engineer
 - 💼 Open to freelance and collaborative frontend projects
 - 📫 Reach me at **shahzaibsatti2005@gmail.com**
@@ -41,7 +41,7 @@ I'm a Frontend Developer and Co-Founder of **[DelVoxe](https://github.com/shahza
 
 ### 📌 Featured Project
 
-**[DelVoxe](https://github.com/shahzaib-codes776/delvoxe)** — Official website of DelVoxe, a software house offering web development and digital services. Built and maintained end-to-end, including service pages, portfolio case studies, and a working contact system.
+**[CelVoxe](https://github.com/shahzaib-codes776/delvoxe)** — Official website of CelVoxe, a software house offering web development and digital services. Built and maintained end-to-end, including service pages, portfolio case studies, and a working contact system.
 
 ---
 
@@ -79,7 +79,7 @@ I'm a Frontend Developer and Co-Founder of **[DelVoxe](https://github.com/shahza
 
 ```
 const shahzaib = {
-  role: "Frontend Developer & Co-Founder @ DelVoxe",
+  role: "Frontend Developer & Co-Founder @ CelVoxe",
   focus: "Building ChatCore, an AI chat widget product for businesses",
   stack: ["JavaScript", "React", "Node.js", "Express", "PostgreSQL"],
   currentlyLearning: "Full-stack architecture & AI integration",
@@ -88,7 +88,7 @@ const shahzaib = {
 ```
 
 - 🚀 Building **[ChatCore](https://github.com/shahzaib-codes776/Chatcore)** — an AI-powered chat widget for businesses, under DelVoxe
-- 🛠️ Co-founded **[DelVoxe](https://github.com/shahzaib-codes776/delvoxe)** — a software house delivering web development & digital services
+- 🛠️ Co-founded **[CelVoxe](https://celvoxe.com)** — a software house delivering web development & digital services
 - 🌱 Full-stack development: authentication, databases, secure APIs, AI integration
 - 💬 Open to freelance work and collaboration on frontend projects
 
@@ -117,7 +117,7 @@ An AI-powered chat widget businesses embed on their website. Visitors get instan
 </td>
 <td width="50%">
 
-**[DelVoxe — Agency Website](https://github.com/shahzaib-codes776/delvoxe)**
+**[DelVoxe — Agency Website](https://celvoxe.com)**
 Official site for DelVoxe, a software house offering web dev & digital services. Built end-to-end: service pages, portfolio case studies, working contact system.
 `HTML` `CSS` `JavaScript`
 
