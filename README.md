@@ -1,125 +1,104 @@
-<!-- <h1 align="center">Hi, I'm Shahzaib Shoukat 👋</h1>
-<h3 align="center">Frontend Developer | Co-Founder @ elVoxe | Software Engineering Student</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahzaib-shoukat-68765439a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shahzaibsatti2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🚀 About Me
-
-I'm a Frontend Developer and Co-Founder of **[CelVoxe](https://celvoxe.com)** — a software house building web development and digital solutions for clients. I focus on clean, functional, and modern frontend experiences, and I'm currently expanding into full-stack development.
-
-- 🔭 Currently building and scaling **CelVoxe**, working with real clients on web projects
-- 🌱 Learning backend development to become a stronger full-stack engineer
-- 💼 Open to freelance and collaborative frontend projects
-- 📫 Reach me at **shahzaibsatti2005@gmail.com**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-### 📌 Featured Project
-
-**[CelVoxe](https://celvoxe.com)** — Official website of CelVoxe, a software house offering web development and digital services. Built and maintained end-to-end, including service pages, portfolio case studies, and a working contact system.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats-nayan-git.vercel.app/api?username=shahzaib-codes776&show_icons=true&theme=default&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com?user=shahzaib-codes776&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center"><em>"Code. Build. Improve."</em></p> -->
-
-                                         
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF8C00&height=200&section=header&text=Shahzaib%20Shoukat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Co-Founder%20%40%20DelVoxe&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1530,60:0E7490,100:22D3EE&height=220&section=header&text=Shahzaib%20Shoukat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Co-Founder%20%40%20CelVoxe&descAlignY=58&descSize=18" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=22D3EE&center=true&vCenter=true&width=650&height=45&lines=Frontend+Developer+%7C+Full-Stack+Engineer;Co-Founder+of+CelVoxe;Building+ChatCore+-+AI+Chat+SaaS;Open+to+Freelance+%26+Collaboration" alt="Typing intro" />
+
+<br/>
+
+<a href="https://shahzaibshoukat.tech">
+  <img src="https://img.shields.io/badge/Portfolio-0B1530?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" />
+</a>
+<a href="https://celvoxe.com">
+  <img src="https://img.shields.io/badge/CelVoxe-0B1530?style=for-the-badge&logo=nextdotjs&logoColor=22D3EE" />
+</a>
 <a href="https://www.linkedin.com/in/shahzaib-shoukat-68765439a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:shahzaibsatti2005@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/shahzaib-codes776/delvoxe">
-  <img src="https://img.shields.io/badge/DelVoxe-000000?style=for-the-badge&logo=vercel&logoColor=orange" />
-</a>
 
 </div>
 
 <br/>
 
-### 🧭 About Me
+## 🧭 About Me
 
-```
-const shahzaib = {
-  role: "Frontend Developer & Co-Founder @ CelVoxe",
-  focus: "Building ChatCore, an AI chat widget product for businesses",
-  stack: ["JavaScript", "React", "Node.js", "Express", "PostgreSQL"],
-  currentlyLearning: "Full-stack architecture & AI integration",
-  motto: "Code. Build. Improve."
-};
-```
+I design and ship web products from idea to deployment. I built **ChatCore**, a production AI chat widget SaaS, and I co-founded **CelVoxe**, a web development agency. I am a Software Engineering student, and right now I am strengthening my backend skills while working with AI APIs.
 
-- 🚀 Building **[ChatCore](https://github.com/shahzaib-codes776/Chatcore)** — an AI-powered chat widget for businesses, under DelVoxe
-- 🛠️ Co-founded **[CelVoxe](https://celvoxe.com)** — a software house delivering web development & digital services
-- 🌱 Full-stack development: authentication, databases, secure APIs, AI integration
-- 💬 Open to freelance work and collaboration on frontend projects
+| | |
+| :-- | :-- |
+| 💼 **Role** | Frontend Developer · Full-Stack Engineer (MERN, growing) |
+| 🏢 **Co-Founder** | [CelVoxe](https://celvoxe.com) — web development & digital services |
+| 🚀 **Building** | [ChatCore](https://github.com/shahzaib-codes776/Chatcore) — AI chat widget for businesses |
+| 🌱 **Learning** | Node.js, Express, MongoDB, AI integration |
+| 📍 **Based in** | Islamabad, Pakistan |
+| 💬 **Open to** | Freelance work and collaboration |
 
 <br/>
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,cpp,java,cs,git,github,vscode&theme=dark" />
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,firebase&theme=dark" />
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,cs&theme=dark" />
+
+**Tools & Deployment**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,netlify&theme=dark" />
+
+**AI**<br/>
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-### 📌 Featured Work
+## 📌 Featured Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[ChatCore](https://github.com/shahzaib-codes776/Chatcore)**
-An AI-powered chat widget businesses embed on their website. Visitors get instant answers grounded in the business's own data, every conversation is captured as a lead, and owners manage it all from a dashboard.
-`Node.js` `Express` `PostgreSQL` `React` `JWT Auth` `Gemini AI`
+### 💬 ChatCore
+**AI chat widget for businesses**
+
+Businesses add one script to their website. Visitors get instant answers based on the business's own data, every conversation is saved as a lead, and owners manage everything from a dashboard.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
+
+[🔗 Live Demo](https://chatcore-app-shahzaib.netlify.app/) · [📂 Source Code](https://github.com/shahzaib-codes776/Chatcore)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[DelVoxe — Agency Website](https://celvoxe.com)**
-Official site for DelVoxe, a software house offering web dev & digital services. Built end-to-end: service pages, portfolio case studies, working contact system.
-`HTML` `CSS` `JavaScript`
+### 🌐 CelVoxe
+**Agency website (formerly DelVoxe)**
+
+Official website of CelVoxe, a software house offering web development and digital services. Built end to end with service pages, portfolio case studies, and contact and quote pages.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br/><br/><br/>
+
+[🔗 Visit Site](https://celvoxe.com) · [📂 Source Code](https://github.com/shahzaib-codes776/delvoxe)
 
 </td>
 </tr>
@@ -127,20 +106,52 @@ Official site for DelVoxe, a software house offering web dev & digital services.
 
 <br/>
 
-### 📊 GitHub Activity
+## 🧩 More Projects
 
-<div align="center">
+| Project | What it is | Tech | Link |
+| :-- | :-- | :-- | :-- |
+| 🎵 **Audio Visualizer Player** | Responsive web audio player with a real-time frequency spectrum drawn on HTML5 Canvas | JavaScript, Web Audio API, Canvas | [Source](https://github.com/shahzaib-codes776/InternGrow_AudioVisualizerPlayer) |
+| 🧮 **Programmer Calculator** | Calculator built for programmers | HTML, CSS, JavaScript | [Source](https://github.com/shahzaib-codes776/InternGrow_ProgrammerCalculator) |
+| 🦖 **T-Rex Runner Clone** | Game clone with real-time animation and object-oriented game logic | C#, Windows Forms, OOP | — |
+| 🚗 **Campus Ride-Sharing App** | Ride-sharing app for campus, built in 6th semester | C# | — |
+| 🎮 **Tic-Tac-Toe & Rock Paper Scissors** | Classic games built to practice logic and UI | C# | — |
+| 🌐 **Portfolio Website** | My personal 5-page portfolio website | Web | [Live](https://shahzaibshoukat.tech) |
 
-<img src="https://streak-stats.demolab.com?user=shahzaib-codes776&theme=radical&hide_border=true" height="180" />
+<br/>
 
-</div>
+## 🎯 What I Can Build For You
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🖥️ Modern Websites**
+Fast, responsive business and agency websites with React and Next.js.
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 AI Chatbot Integration**
+Chat widgets that answer customer questions using your own business data.
+
+</td>
+<td width="33%" valign="top">
+
+**⚙️ Full-Stack Apps**
+Dashboards, APIs, and databases with Node.js, Express, and PostgreSQL.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-📫 **shahzaibsatti2005@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/shahzaib-shoukat-68765439a/)**
+## 📫 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:8A2BE2&height=100&section=footer" width="100%"/>
+📧 **shahzaibsatti2005@gmail.com** &nbsp;|&nbsp; 🌐 **[shahzaibshoukat.tech](https://shahzaibshoukat.tech)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://www.linkedin.com/in/shahzaib-shoukat-68765439a/)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,60:0E7490,100:0B1530&height=110&section=footer" width="100%"/>
 
 </div>
